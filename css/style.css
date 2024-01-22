@@ -71,7 +71,7 @@ ul {
     color: #404BBF;
 }
 
-/* ------main----- */
+/* ------section1----- */
 .main {}
 
 .main-topic {
@@ -104,7 +104,7 @@ ul {
     background-color: #404BBF;
 }
 
-/* -----features------ */
+/* -----section2------ */
 .features {}
 
 .features-item {
@@ -126,12 +126,13 @@ ul {
 
 }
 
-/* ------team----- */
+/* ------section3----- */
 .main-team {
     background-color: #F4F4FD;
 }
 
 .team {
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     line-height: 1.11;
@@ -167,12 +168,12 @@ ul {
     letter-spacing: 0.02em;
 }
 
-/* ------portfolio----- */
+/* ------section4----- */
 
 .portfolio {}
 
 .portfolio-topic {
-    color: #2e2f42;
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     line-height: 1.11;
@@ -187,6 +188,7 @@ ul {
 .portfolio-img {}
 
 .portfolio-name {
+    color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
