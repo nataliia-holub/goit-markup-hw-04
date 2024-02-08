@@ -72,6 +72,9 @@ ul {
 
 }
 
+.header {
+    padding: 24px 0 24px;
+}
 
 .logo span {
     color: #2e2f42;
@@ -85,7 +88,7 @@ ul {
 .header-navigation-menu {
     display: flex;
     gap: 40px;
-    padding: 24px 0 24px;
+
 }
 
 .header-navigation-type {
